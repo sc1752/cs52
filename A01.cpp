@@ -4,7 +4,7 @@
 // Submission Date : 9/5/18
 //
 // Program Description : This program prints the
-// maximum value of five numbers input by a user .
+// maximum value of five numbers input by a user.
 
 #include <iostream>
 using namespace std;
