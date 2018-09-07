@@ -16,7 +16,6 @@ int main (int argc , char * argv [])
   int count = 5;
   
   std::cout << "Enter five space separated numbers, then press enter to display the max:" << endl;
-  //test
   
   do
   {
